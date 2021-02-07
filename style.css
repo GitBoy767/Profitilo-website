@@ -1,7 +1,4 @@
-
-
-
-h2{
+h2 {
     font-size: 18px;
     font-family: futura;
     text-shadow: 2px 2px #536DFE;
@@ -25,20 +22,48 @@ img {
 
 
 
-#about{
-  padding:20px;
-  text-align: center;
-  font-size: 18px;
-  font-family: futura;
-  color: #16e031;
-  background-color:#000000;
+#about {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: futura;
+    color: #16e031;
+    background-image: linear-gradient(black, grey);
 }
 
-#welcome{
-    background-image: linear-gradient(blue, cyan);
+#welcome {
+    background-image: linear-gradient(red, yellow);
     background-repeat: no-repeat;
-     text-align: center;
+    text-align: center;
     padding-top: 50px;
-    background-repeat: no-repeat;
-    
+
 }
+
+ul {
+    font-family: futura;
+    position: fixed;
+    cursor: pointer;
+    top: 0px;
+    z-index: 10;
+    width: 100%;
+}
+
+li {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: futura;
+    color: deepskyblue;
+}
+
+#myfavouriteapps {
+    background-image: linear-gradient(purple, grey);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    color: mediumpurple;
+}
+    
+
+
+
