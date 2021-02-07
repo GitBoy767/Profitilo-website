@@ -63,6 +63,14 @@ li {
     padding-top: 50px;
     color: mediumpurple;
 }
+#inspiration{
+    background-image: linear-gradient(blue, white);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    color: aquamarine;
+    
+}
     
 
 
