@@ -57,21 +57,27 @@ li {
 }
 
 #myfavouriteapps {
-    background-image: linear-gradient(purple, grey);
+    background-image: linear-gradient(aqua, grey);
     background-repeat: no-repeat;
     text-align: center;
     padding-top: 50px;
     color: mediumpurple;
 }
-#inspiration{
-    background-image: linear-gradient(blue, white);
+
+#inspiration {
+    background-image: linear-gradient(cyan, purple);
     background-repeat: no-repeat;
     text-align: center;
     padding-top: 50px;
     color: aquamarine;
-    
+
 }
-    
 
-
-
+#contact {
+    background-image: linear-gradient(green, yellow);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    color:darkgreen;
+    font-family: futura;
+}
